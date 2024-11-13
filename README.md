@@ -41,13 +41,11 @@ This project is dedicated to analyzing and visualizing global data related to **
 
 ## How to Run the Project
 1. **Clone the Repository**: `git clone <repository-url>`
-2. **Set Up Python Environment**:
-   - Install necessary Python libraries: `pip install -r requirements.txt`
-3. **Load Power BI Dashboards**:
+
+2. **Load Power BI Dashboards**:
    - Open Power BI and import the `.pbix` file to view the visualizations.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
 
 ## Acknowledgments
 - **Data Source**: Scopus
