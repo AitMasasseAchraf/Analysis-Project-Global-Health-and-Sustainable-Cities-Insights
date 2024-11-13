@@ -25,10 +25,10 @@ This project is dedicated to analyzing and visualizing global data related to **
 ## Key Visualizations
 
 ### Health Indicators Dashboard
-![Health Indicators Dashboard](.health_dashboard.png)
+![Health Indicators Dashboard](health_dashboard.png)
 
 ### Urban Sustainability Dashboard
-![Urban Sustainability Dashboard](.urban_dashboard.png)
+![Urban Sustainability Dashboard](urban_dashboard.png)
 
 ## Insights and Conclusions
 - **ODD 3**: The analysis reveals current trends in health metrics, identifying regions that have made significant progress and those facing challenges.
